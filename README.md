@@ -1,6 +1,5 @@
-# capstone-golf-courses
 
-# Golf Course Recommender Capstone project for General Assembly Data Science Immersive
+# Golf Course Recommender Capstone project
 
 This repository is a for a golf course recommendation engine that I built while in the Data Science Immersive program at General Assembly.
 
