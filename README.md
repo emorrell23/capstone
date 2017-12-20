@@ -1,7 +1,7 @@
 
-# Golf Course Recommender Capstone project
+# Golf Course Recommendendation Engine
 
-This repository is a for a golf course recommendation engine that I built while in the Data Science Immersive program at General Assembly.
+This repository is a for a golf course recommendation engine that I built in python.
 
 The goal of this project was to recommend similar golf courses to users given a known course that a user enjoys. Results were narrowed down to a 50 mile radius given a target zip code where you want to play. The overarching goal for this project was to help golfers to find new challenges that they might not otherwise ever discover.
 
